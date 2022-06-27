@@ -19,12 +19,12 @@ let department="computer science";
 
 //"8 Declare variables to store your first name, last name, marital status, country and age in multiple lines"
 let firstName="Eunice";
-let lastName="Adebukola";
+let last_Name="Adebukola";
 let maritalStatus="single";
 let country="Nigeria";
 let age="18";
 console.log(firstName)
-console.log (lastName)
+console.log (last_Name)
 console.log(maritalStatus)
 console.log( country)
 console.log(age)
